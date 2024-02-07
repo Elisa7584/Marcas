@@ -1,0 +1,39 @@
+h1{
+    color: aquamarine;
+    text-align: center;
+}
+
+h2{
+    margin-top: 0;
+}
+
+div{
+    background-color: white;
+}
+
+body {
+    margin: 0 10%;
+    background-color: #4db3aa;
+    font-size: 1.5rem;
+    text-align:justify;
+  }
+
+.principal{
+    background-color:#4db3aa;
+    padding: 5px;
+}
+
+.naranja{
+    border: orangered 7px solid;
+    padding: 15px;
+}
+
+.amarilla{
+    border: yellow 7px solid;
+    padding: 15px;
+}
+
+img{
+    border: orangered 7px solid;
+    padding: 4px;
+}
